@@ -1,0 +1,22 @@
+{
+  "name": "dev-ops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miles-no/devops-gemba-node.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miles-no/devops-gemba-node/issues"
+  },
+  "homepage": "https://github.com/miles-no/devops-gemba-node",
+  "dependencies": {
+    "express": "^4.12.2"
+  }
+}
